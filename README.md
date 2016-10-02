@@ -5,7 +5,11 @@ ___
 ## Who's part of our repository?
 ### Officers
 - Echodoris
+
 ### Administrators
+
 ### Developers
+
 ### Contributors
+
 ### Testers
