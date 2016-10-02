@@ -1,0 +1,19 @@
+Disp "HOW MANY TIMES DO YOU WANT
+Disp "TO GET SPAMMED
+Input E
+For(S,1,E)
+nbrAléatEnt(1,3)→L
+If L=1
+Then
+Disp "LOLN00B 360N0SC0PE
+Else
+If L=2
+Then
+Disp "GEORGEY BUSHIE DICK CHENEY
+Else
+If L=3
+Disp "LELSPAM GETREKT :)
+End
+End
+End
+Disp "(C) ECHORP, INC. 2016
